@@ -1,0 +1,6 @@
+{
+  "name": "Taniya - Personal AI Friend & Voice Companion",
+  "description": "Warm, upbeat personal voice AI assistant who chats like a caring friend. Features Day Planner, Focus Buddy with synthesized audio ambience, Reality Check, and dynamic Memory Book.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
